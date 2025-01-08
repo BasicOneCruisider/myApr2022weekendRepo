@@ -11,6 +11,8 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votr
 - ✅ **JDK 11+** (ou version compatible de Java)
 - ✅ **Maven** (pour la gestion de projet)
 - ✅ **GitHub** (pour héberger votre code)
+- ![image](https://github.com/user-attachments/assets/7f710b29-0116-4d1a-9129-f72a6ab73a20)
+
 - ✅ **Azure CLI** (pour interagir avec Azure)
 - ✅ **Compte Azure** (pour héberger l'application)
 - ✅ **Azure DevOps** (pour l'intégration continue et le déploiement)

@@ -11,8 +11,6 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votr
 - ✅ **JDK 11+** (ou version compatible de Java)
 - ✅ **Maven** (pour la gestion de projet)
 - ✅ **GitHub** (pour héberger votre code)
-- ![image](https://github.com/user-attachments/assets/7f710b29-0116-4d1a-9129-f72a6ab73a20)
-
 - ✅ **Azure CLI** (pour interagir avec Azure)
 - ✅ **Compte Azure** (pour héberger l'application)
 - ✅ **Azure DevOps** (pour l'intégration continue et le déploiement)
@@ -22,7 +20,10 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votr
 ## ⚡ **Fonctionnalités**
 
 - 🌍 **Déploiement automatique** sur **Azure** avec **GitHub** et **Azure Pipelines**
-- 📦 **Automatisation des tests** et du build avec **Maven** et **JUnit**
+- ![image](https://github.com/user-attachments/assets/7f710b29-0116-4d1a-9129-f72a6ab73a20)
+- 📦 **Automatisation des tests** et du build avec **Maven**
+- ![image](https://github.com/user-attachments/assets/9095c134-7a43-4a05-a75f-b05d624d75e8)
+
 - 🌱 **Intégration continue (CI)** pour garantir la stabilité du code
 - 🚀 **Déploiement continu (CD)** pour mettre à jour facilement l'application sur Azure
 - 🔐 **Sécurisation des secrets** via GitHub Secrets et Azure Key Vault

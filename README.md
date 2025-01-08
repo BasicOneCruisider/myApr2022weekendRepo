@@ -21,7 +21,7 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votr
 
 ## ⚡ **Fonctionnalités**
 
-- 🌍 **Déploiement automatique** sur **Azure** avec **GitHub Actions** et **Azure Pipelines**
+- 🌍 **Déploiement automatique** sur **Azure** avec **GitHub** et **Azure Pipelines**
 - 📦 **Automatisation des tests** et du build avec **Maven** et **JUnit**
 - 🌱 **Intégration continue (CI)** pour garantir la stabilité du code
 - 🚀 **Déploiement continu (CD)** pour mettre à jour facilement l'application sur Azure

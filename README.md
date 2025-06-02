@@ -1,6 +1,6 @@
 # 🚀 **Web App Java - Déploiement sur Azure avec GitHub Actions et Azure Pipeline** 🌐
 
-Bienvenue dans le projet **Web App Java** ! Ce projet vous permet de déployer une application Java sur **Azure Cloud** en utilisant des **GitHub** et un **Azure Pipeline**. C'est un projet d'intégration continue et de déploiement continu (CI/CD) qui facilite la gestion de vos applications dans le cloud avec une infrastructure moderne.
+Bienvenue dans le projet **Web App Java** !  Ce projet vous permet de déployer une application Java sur **Azure Cloud** en utilisant des **GitHub** et un **Azure Pipeline**. C'est un projet d'intégration continue et de déploiement continu (CI/CD) qui facilite la gestion de vos applications dans le cloud avec une infrastructure moderne.
 
 ---
 
